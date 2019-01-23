@@ -28,7 +28,6 @@
     <module>maven-dao</module>
     <module>maven-service</module>
     <module>maven-service-impl</module>
-    <module>maven-controller</module>
     <module>maven-web</module>
     <module>maven-utils</module>
     <module>maven-beans</module>
